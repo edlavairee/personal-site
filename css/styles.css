@@ -1,0 +1,142 @@
+body{
+  margin: 0;
+  text-align: center;
+
+
+}
+
+h1{
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  color: #66BFBF;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+
+}
+
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+a{
+  color: #11999E;
+}
+
+.top-container{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+  background-color: white;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 55px;
+}
+
+.bottom-container a{
+  color: #11999E;
+  padding: 40px;
+  font-size: 22px;
+  text-decoration: none;
+}
+
+.bottom-container p{
+  color: #EAF6F6;
+  margin-top: 30px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.profile img{
+  margin-top: 100px;
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+}
+
+.python-pic{
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.wd-pic{
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.sql-pic{
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+p{
+  color: #40514E;
+  margin: auto;
+  width: 70%;
+  text-align: center;
+  font-weight: bold;
+  font-size: 17px;
+  line-height: 2;
+}
+
+.about-me{
+  color: #40514E;
+  margin: auto;
+  width: 30%;
+  text-align: center;
+  font-weight: bold;
+  font-size: 17px;
+  line-height: 2;
+}
+
+.dotted-hr{
+  border: none;
+  border-top: 8px dotted #EAF6F6;
+  width: 70px;
+  margin: 80px auto 80px auto;
+}
+
+.btn{
+  background-color: #66BFBF;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 60px auto 80px auto;
+}
